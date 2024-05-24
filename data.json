@@ -1,0 +1,76 @@
+{
+    "experience": {
+        "job 1": {
+            "title": "MARKETING CONSULTANT",
+            "timeframe": "11/2023 to Current",
+            "company": "Victory Human Services, Inc.",
+            "responsibilities": [
+                "Efficiently manage a marketing budget of $200,000, ensuring optimal allocation for maximum ROI.",
+                "Strengthen and expand strategic partnerships, fostering collaborations with key stakeholders to enhance brand visibility and market reach.",
+                "Oversee and implement strategies to optimize the operation of the company website, ensuring an enhanced user experience and improved online presence.",
+                "Identify and execute events and initiatives that significantly increase referrals, driving organic growth and expanding the customer base.",
+                "Develop and execute robust social media advertising campaigns, coupled with engaging content creation, to elevate brand awareness and engagement across various platforms.",
+                "Spearhead effective email marketing campaigns, leveraging segmentation and personalized content to nurture leads, enhance customer retention, and drive conversions.",
+                "Implement tools and strategies to monitor website traffic, analyzing user behavior and trends to make data-driven decisions for continuous improvement.",
+                "Establish and implement key performance indicators (KPIs) to measure the success of marketing efforts, ensuring alignment with overall business objectives.",
+                "Generate and present comprehensive monthly reports on marketing KPIs, providing insights into performance, areas for improvement, and strategic recommendations for achieving marketing goals.",
+                "Contribute to the development and execution of a comprehensive marketing strategy, aligning marketing initiatives with overall business objectives and market trends."
+            ]
+        },
+        "job 2": {
+            "title": "MARKETING DIRECTOR",
+            "timeframe": "08/2023 to 04/2024",
+            "company": "Chick-Fil-A",
+            "responsibilities": [
+                "Led the department autonomously, demonstrating self-starting initiative and pioneering the development of systems to drive company growth. Established efficient task delegation methods, optimizing operations and fostering organizational effectiveness.",
+                "Executed marketing plans driving a 10% increase in sales, gained 1,500 net social media followers, hosted 4 weekly events with 2 samplings, and ran ads reaching 100,000 monthly.",
+                "Planned and executed campaigns, increasing a low Daypart by 10% and attracting 50 new app users monthly while retaining a daily customer base of 2,500.",
+                "Managed online presence, generating 3,000 new followers while maintaining a net gain of 1,500, optimizing customer interactions and driving sales.",
+                "Cultivate and maintain relationships within the local community, partnering with schools, organizations, and local businesses to enhance brand visibility and contribute to community growth.",
+                "Collaborate with external partners to create impactful advertising materials and press releases that highlight our offerings and values.",
+                "Effectively managed a marketing budget of $24,000 annually, with additional allocations for events, ensuring optimal resource allocation and cost-efficient execution of initiatives.",
+                "Utilize data and analytics tools to measure the effectiveness of marketing strategies, making data-driven decisions to improve campaigns continuously.",
+                "Work closely with cross-functional teams, including operations and customer service, to ensure seamless execution of marketing initiatives and consistent customer experience.",
+                "Led and mentored marketing team members, fostering their professional growth and ensuring alignment with company values and objectives.",
+                "Research industry trends, competitor activities, and customer preferences actively to inform marketing strategies and maintain a competitive edge."
+            ]
+        },
+        "job 3": {
+            "title": "MARKETING (DATA) ANALYST",
+            "timeframe": "10/2020 to 10/2021",
+            "company": "DemandScience",
+            "responsibilities": [
+                "Communicate and visualize lead lifecycle to close through data",
+                "Connect and configure various API's into one SQL Database",
+                "Manage key marketing data via both manual and automated metric collection methods",
+                "Responsible for understanding how data flows from Marketing Automation all the way through CRM."
+            ]
+        },
+        "job 4": {
+            "title": "MARKETING DIRECTOR",
+            "timeframe": "10/2016 to 10/2021",
+            "company": "Gold Coast Entertainment LLC",
+            "responsibilities": [
+                "Developed a ticketing system from scratch using advanced Excel formulas to track revenue generation",
+                "Build data-driven marketing strategies for 10+ clients ranging from educational institutions to concert venues.",
+                "Generated over 800 concert ticket sales for the University of Southern Maine as the Chairman of the Students Event Association",
+                "Curated 6 sellout student shows with 500+ in attendance, generated over 40k in revenue, and contributed to an increased enrollment rate.",
+                "Accomplishments featured in the University of Southern Maine's free press",
+                "Increased social media presence by 500% through Search Engine Optimization and promotional content",
+                "Pitched entertainment events to key stakeholders such as the Director of Student Life and Head of USM School Board",
+                "Drive and execute marketing strategies to capture customer information for specific clients through email marketing."
+            ]
+        },
+        "job 5": {
+            "title": "DIGITAL ADVERTISING CONSULTANT",
+            "timeframe": "10/2019 to 10/2020",
+            "company": "Dealer.com",
+            "responsibilities": [
+                "Responsible for launching over 150+ new client accounts by leveraging various internal and external marketing/CRM software (Google Ads, Bing Ads, Admiral, Fluency, Salesforce etc..) to improve customer traffic for Dealer.com",
+                "Conducted Weekly Quality Assurance assessments to ensure high customer satisfaction",
+                "This resulted in optimizing 400+ accounts and resolving issues for existing Dealer.com clients",
+                "Execute within a process driven environment by learning multiple systems within a month time, maintaining internal data integrity, and managing client information."
+            ]
+        }
+    }
+}
